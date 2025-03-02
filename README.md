@@ -19,17 +19,20 @@ React Icons (For SVG icons)
 Follow the steps below to run the project locally:
 
 ### 1️⃣ Clone the Repository
-
-git clone <repo-link>
+```bash
+git clone git push -u origin main
 cd project-folder
+```
 
 ### 2️⃣ Install Dependencies
-
+```bash
 npm install
+```
 
 ### 3️⃣ Run the Application
-
+```bash
 npm run dev
+```
 
 ## 📌 Project Structure
 
